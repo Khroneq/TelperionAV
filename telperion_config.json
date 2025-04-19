@@ -1,0 +1,1 @@
+{"scan_paths": ["/"], "quarantine_dir": "quarantine", "scan_interval": 7, "sync_interval": 7, "network_monitoring": false, "malware_signatures": "known_malware.json"}
